@@ -1,151 +1,129 @@
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0B1220,50:193C75,100:635BCA&section=header" alt="Header banner" />
+
+  <h1>Hi, I'm Veronica Tepale 👋</h1>
+
+  <p><strong>Software Engineering · Robotics Engineering · Salesforce Development</strong></p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=900&color=58B7FF&center=true&vCenter=true&width=620&lines=Building+software+for+real+robots;RoboCup+2026+%7C+South+Korea;Exploring+Apex%2C+SOQL+%26+LWC;Always+learning%2C+always+building" alt="Animated introduction" />
+
+  <p>
+    <a href="https://www.linkedin.com/in/veronicamt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:veronica.morales.tepale@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.instagram.com/itsverotech"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
 </div>
 
-<h1 align="center">
-  Hi, I'm Veronica Tepale
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineer;Robotics+%26+ROS+2+Developer;RoboCup+2026+South+Korea;Learning+Salesforce+Development;Always+Learning+New+Things!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <b>Connect with Me</b>
-  <br><br>
-  <a href="https://www.linkedin.com/in/veronicamt/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/itsverotech">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:veronica.morales.tepale@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
 ---
 
-## 👩‍💻 About Me
+## ✨ About Me
 
-<img align="right" alt="Coding GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+I'm an engineering graduate interested in building software that connects people and technology. I work on **service robotics and human–robot interaction** at the **UNAM BioRobotics Laboratory**, and I'm expanding my development skills through hands-on **Salesforce** projects.
 
-- 🎓 Engineering graduate from **Universidad Tecnológica de México (UNITEC)**.
-- 🤖 Working with the **BioRobotics Laboratory at UNAM**, developing software for service robots.
-- 🏆 Participated in **RoboCup 2026 in South Korea**, contributing to the development of the service robot **Justina**.
-- 🎙️ Experience developing **Human-Robot Interaction (HRI)** systems, including graphical interfaces and voice interaction.
-- 🛠️ Currently working on **MiniPuma robotics projects**, exploring robot navigation and sensor-based behavior.
-- ☁️ Learning **Salesforce Development**, including Apex, SOQL, DML, Lightning Web Components (LWC), and JavaScript.
-- 🧠 Passionate about **Software Engineering, Artificial Intelligence, Robotics, and Technology**.
+- 🤖 **Robotics:** ROS 2, robot interfaces, speech interaction, navigation and sensor-driven behavior.
+- 🌏 **International experience:** Participated in **RoboCup 2026 in South Korea** with the service robot **Justina**.
+- 💻 **Software development:** Python, C++, Linux and Git workflows.
+- ☁️ **Currently learning:** Apex, SOQL, DML, triggers, test classes and Lightning Web Components (LWC).
+- 🎯 **Next goal:** Strengthen my development portfolio and prepare for **Salesforce Platform Developer I**.
 
----
+## 🏆 Featured Highlight · RoboCup 2026
 
-## 🏆 Highlights & Achievements
+> **South Korea 🇰🇷 | Service Robotics · Human–Robot Interaction**
 
-### 🌏 RoboCup 2026 | South Korea
+I participated in **RoboCup 2026** with the UNAM BioRobotics team, contributing to the software of **Justina**, a service robot. My work focused on the **graphical user interface (GUI)** and **voice interaction components (Talker)**, integrated into a **ROS 2** environment.
 
-Participated in the international RoboCup 2026 competition as part of the UNAM BioRobotics team, contributing to the development of **Justina**, a service robot designed for human-robot interaction.
+**What I worked on**
+- Developing and improving the interface used to display robot state and interaction information.
+- Working on speech output and listening modules for human–robot communication.
+- Integrating and documenting ROS 2 components in a collaborative research setting.
 
-**My contributions included:**
-- Developing and improving the robot's graphical user interface (GUI).
-- Working on speech interaction modules, including Talker and Listener.
-- Integrating ROS 2 components for human-robot communication.
-- Collaborating with researchers and developers in an international robotics environment.
+<!-- OPTIONAL: Replace the following line with your own RoboCup photo once it is uploaded to this repository.
+<p align="center"><img src="./assets/robocup-2026.jpg" width="75%" alt="RoboCup 2026 South Korea" /></p>
+-->
 
-### 🤖 UNAM BioRobotics Laboratory
+## 🚀 Featured Projects
 
-Working on real-world robotics projects involving:
-- Human-Robot Interaction (HRI).
-- ROS 2-based software development.
-- Robotic perception and navigation.
-- Software integration and technical documentation.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Justina · Human–Robot Interaction</h3>
+      <p>Robot GUI and speech-related components for a ROS 2 service robot, including interaction states and visual feedback.</p>
+      <p><img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ MiniPuma · Robotics Software</h3>
+      <p>Exploring robotic control, sensor-based navigation, and system behavior through a C++ robotics codebase.</p>
+      <p><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>☁️ Salesforce · Development Practice</h3>
+      <p>Hands-on exercises covering Apex, SOQL, DML, triggers, test classes, JavaScript, LWC component communication, and Salesforce DX workflows.</p>
+      <p><img src="https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Apex" /> <img src="https://img.shields.io/badge/SOQL-0176D3?style=flat-square&logo=salesforce&logoColor=white" alt="SOQL" /> <img src="https://img.shields.io/badge/LWC-5867E8?style=flat-square&logo=salesforce&logoColor=white" alt="LWC" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></p>
+      <p><a href="https://github.com/veronicamtepale/salesforce-lwc-practice"><strong>Explore my Salesforce practice repository →</strong></a></p>
+    </td>
+  </tr>
+</table>
 
----
+## 🧰 Tech Stack
 
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
+**Languages & scripting**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-### 🤖 Robotics & AI
+**Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white">
-  <img src="https://img.shields.io/badge/Robotics-00979D?style=for-the-badge&logo=robotframework&logoColor=white">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-6C3FC5?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white" alt="VS Code" />
 </p>
 
-### ☁️ Salesforce Development | Currently Learning
+**Salesforce · Currently learning**
 
 <p>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white">
-  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white">
-  <img src="https://img.shields.io/badge/SOQL-0176D3?style=for-the-badge&logo=salesforce&logoColor=white">
-  <img src="https://img.shields.io/badge/DML-0176D3?style=for-the-badge&logo=salesforce&logoColor=white">
-  <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=lightning&logoColor=white">
-  <img src="https://img.shields.io/badge/Salesforce_CLI-032D60?style=for-the-badge&logo=salesforce&logoColor=white">
-  <img src="https://img.shields.io/badge/Salesforce_DX-0176D3?style=for-the-badge&logo=salesforce&logoColor=white">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/Apex-0176D3?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
+  <img src="https://img.shields.io/badge/SOQL-0070D2?style=for-the-badge&logo=salesforce&logoColor=white" alt="SOQL" />
+  <img src="https://img.shields.io/badge/DML-005FB2?style=for-the-badge&logo=salesforce&logoColor=white" alt="DML" />
+  <img src="https://img.shields.io/badge/LWC-635BCA?style=for-the-badge&logo=salesforce&logoColor=white" alt="Lightning Web Components" />
+  <img src="https://img.shields.io/badge/Salesforce_CLI-032D60?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce CLI" />
+  <img src="https://img.shields.io/badge/Salesforce_DX-16325C?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce DX" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### 🔧 Development Tools
+## 📚 My Development Journey
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</p>
+| Focus | What I'm working on |
+| --- | --- |
+| 🤖 **Robotics & ROS 2** | HRI, robot interfaces, human following, sensors and navigation |
+| ☁️ **Apex & Salesforce Data** | Apex fundamentals, SOQL, DML, triggers, testing and bulk-safe logic |
+| ⚡ **Lightning Web Components** | JavaScript, `@api`, events, parent–child communication and lifecycle hooks |
+| 🧪 **Engineering Practices** | Git, GitHub, debugging, documentation and reproducible exercises |
+| 🎯 **Next milestone** | Preparation for Salesforce Platform Developer I |
 
----
-
-## 📂 Current Projects
-
-### 🤖 Human-Robot Interaction | Justina
-Development and integration of ROS 2-based systems for service robots, focusing on graphical interfaces, voice interaction, and human-robot communication.
-
-### 🛠️ MiniPuma Robotics
-Working with robotic control software, sensor integration, navigation behavior, and C++ development.
-
-### ☁️ Salesforce Development Practice
-Building practical exercises and projects to strengthen my knowledge of:
-- Apex programming and object-oriented concepts.
-- SOQL queries and Salesforce data manipulation (DML).
-- Triggers, test classes, and asynchronous Apex.
-- Lightning Web Components (LWC).
-- JavaScript, component communication, and lifecycle hooks.
-- Salesforce CLI, Salesforce DX, and Git workflows.
-
-🔗 [View my Salesforce Practice Repository](https://github.com/veronicamtepale/salesforce-lwc-practice)
-
----
-
-## 📚 Currently Learning
-
-- ☁️ Salesforce Platform Developer I concepts.
-- 💻 Apex, SOQL, DML, and Lightning Web Components.
-- ⚡ JavaScript and component-based development.
-- 🤖 Advanced ROS 2 concepts and robotic software integration.
-- 🌱 Git and GitHub best practices.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=veronicamtepale&theme=radical" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Activity
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
+  <img src="https://streak-stats.demolab.com?user=veronicamtepale&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+<p align="center"><sub>My repositories document what I build, test, and learn along the way.</sub></p>
+
+---
+
+<div align="center">
+  <strong>Thanks for visiting! ✨</strong><br />
+  <sub>Curious about robotics, software engineering, or Salesforce? Let's connect.</sub>
+  <br /><br />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0B1220,50:193C75,100:635BCA&section=footer" alt="Footer banner" />
 </div>
