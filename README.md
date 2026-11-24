@@ -10,7 +10,6 @@
   <p>
     <a href="https://www.linkedin.com/in/veronicamt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:veronica.morales.tepale@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.instagram.com/itsverotech"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
 </div>
 
@@ -51,9 +50,9 @@ I participated in **RoboCup 2026** with the UNAM BioRobotics team, contributing 
       <p><img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ MiniPuma · Robotics Software</h3>
+      <h3>🛠️ Minibot · Robotics Software</h3>
       <p>Exploring robotic control, sensor-based navigation, and system behavior through a C++ robotics codebase.</p>
-      <p><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /></p>
+      <p><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> </p>
     </td>
   </tr>
   <tr>
@@ -61,14 +60,13 @@ I participated in **RoboCup 2026** with the UNAM BioRobotics team, contributing 
       <h3>☁️ Salesforce · Development Practice</h3>
       <p>Hands-on exercises covering Apex, SOQL, DML, triggers, test classes, JavaScript, LWC component communication, and Salesforce DX workflows.</p>
       <p><img src="https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Apex" /> <img src="https://img.shields.io/badge/SOQL-0176D3?style=flat-square&logo=salesforce&logoColor=white" alt="SOQL" /> <img src="https://img.shields.io/badge/LWC-5867E8?style=flat-square&logo=salesforce&logoColor=white" alt="LWC" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></p>
-      <p><a href="https://github.com/veronicamtepale/salesforce-lwc-practice"><strong>Explore my Salesforce practice repository →</strong></a></p>
     </td>
   </tr>
 </table>
 
 ## 🧰 Tech Stack
 
-**Languages & scripting**
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
